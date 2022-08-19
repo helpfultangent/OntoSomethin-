@@ -5,7 +5,7 @@ This is the repository for the OntoSomethin' Hackathon Team for the ISGEO and iH
 
 
 This repository includes the following content files: 
-- Project Slide Deck
+- Project Slide Deck (pdf)
 - Ontosoft Registry for the iHARP pilot application for Knoweledge Management Tool
       https://iharp.ontosoft.org/#browse/Software-cjlttSgcQ4YJ
       
