@@ -15,15 +15,24 @@ The KMR will Prioritize Spatio-temporal Materials for Education from the perspec
 
 # iHARP KMT Taxonomy (preliminary)
 Keywords or Labels used in Ontosoft entries: 
-Categories [Tools, Teaching materials, Tutorials]
-Domain Problem [ice sheet melting; spatio-temporal; sea ice; etc.]
-Data [benchmark; observational]
-Model [Empirical; Physics-based]
-Approach/Method [examples, Quantitative, Qualitative ]
-CI Resources
-Primary Area [AI, Data Science, Polar Science]
-Expertise [Novice; Intermediate; Advanced; Expert]
-Quality [Peer reviewed, non-reviewed]
+
+Categories [tool, teaching material,tutorial]
+domain problem 
+[polar science,
+ai/ml, 
+data science] 
+ ice sheet melting, spatio-temporal, sea ice, etc.]
+approach/method [examples, quantitative, qualitative]
+foundational Information []
+data [benchmark, observational]
+model [empirical, physics-based]
+Type resource;[dynamic; static]
+(needs discussion with Tri, Jianwu, Maria) CI Resources 
+expertise [novice; intermediate; advanced; expert]
+quality [peer reviewed, non-reviewed]
+tbd (use this keyword for resources we need to revisit)
+exclude (use this keyword and then add the reason/topic - e.g. exclude, algorithm development)
+
 
 
 # Metrics for Success 
