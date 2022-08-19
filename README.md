@@ -62,6 +62,8 @@ Keywords or Labels used in Ontosoft entries:
 # This repository includes the following content files: 
 - Project Slide Deck (pdf)
 - Ontosoft Registry for the iHARP pilot application for Knoweledge Management Tool
-      https://iharp.ontosoft.org/#browse/Software-cjlttSgcQ4YJ
+[Reference] https://iharp.ontosoft.org/#browse/Software-cjlttSgcQ4YJ
+- MiroBoard for Project Goals: 
+[Reference] https://miro.com/app/board/uXjVPfSM45k=/?share_link_id=800858349770
       
       
